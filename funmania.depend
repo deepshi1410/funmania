@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1493567457 source:c:\users\sashakt\desktop\programs\backend.c
+	<stdio.h>
+	<malloc.h>
+	<windows.h>
+	"backend_sell.h"
+
+1492263730 c:\users\sashakt\desktop\programs\backend_sell.h
+
+1493568133 source:c:\users\sashakt\desktop\programs\backend_sell.c
+	<stdio.h>
+	<windows.h>
+
+1493650906 source:c:\users\sashakt\desktop\programs\firstpage.c
+	<stdio.h>
+	<dos.h>
+	<windows.h>
+	<MMSystem.h>
+
+1493381537 source:c:\users\sashakt\desktop\programs\tictactoewindow.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1493616475 source:c:\users\sashakt\desktop\programs\begin.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
